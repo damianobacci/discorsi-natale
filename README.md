@@ -4,12 +4,16 @@ Questo repository contiene i testi dei messaggi di fine anno di tutti i Presiden
 
 L'obiettivo è analizzare i discorsi in maniera qualitativa e quantitativa.
 
+Liberamente ispirato da [Discursos de Navidad: 1937-2020](https://lirondos.github.io/discursos-de-navidad/) di [Elena Álvarez Mellado](https://lirondos.github.io/).
+
 ## Analisi qualitativa
 
-* Appunti
+* Appunti sui singoli discorsi
 
 ## Analisi quantitativa
 
 * Frequenza delle parole per presidente e per periodo storico
-* Lessico utilizzato
+* Complessità (indice di leggibilità) e lunghezza delle frasi
 * Bigrammi
+* POS tagging ()
+* Doc to Vec (vettorizzazione)
